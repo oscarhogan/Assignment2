@@ -1,1 +1,2 @@
 "# Assignment2" 
+All files included should work if placed in a newly intialised repo location, say for instance *Assignment2* etc etc. Just place all items as is into this folder location and navigate to it upon opening your miniforge terminal. The first part associated with Lab 5 may only work with the conda ox environment if a windows user, however the later works just fine with the ua environment. All desired outputs have been included as images in the repo but are also loaded into the two notebook outcomes. Enjoy - Oscar
